@@ -20,4 +20,4 @@ Creating a responsive card collaborator interface involves designing a layout th
 
 8. **Testing**: Thoroughly test the interface across different devices and browsers to identify and address any layout or functionality issues. User testing can also provide valuable feedback for improving the usability and effectiveness of the card collaborator interface.
 
-<video controls src="26.02.2024_16.34.50_REC.mp4" title="Card Colaborator Responsive"></video>
+![Card_Colaborator_Image](image.png)
